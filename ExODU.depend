@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1447462792 source:z:\cs250\exodu\main.cpp
+	<iostream>
+	"ExODU.h"
+	"playerData.h"
+	"boardData.h"
+
+1448298155 z:\cs250\exodu\include\exodu.h
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"playerData.h"
+	"boardData.h"
+
+1447556959 z:\cs250\exodu\include\playerdata.h
+	<string>
+
+1447606103 z:\cs250\exodu\include\boarddata.h
+	"playerData.h"
+
+1448150072 source:z:\cs250\exodu\src\artificialintelligence.cpp
+	"ArtificialIntelligence.h"
+	<iostream>
+	<ctime>
+	<stdlib.h>
+
+1448064618 z:\cs250\exodu\include\artificialintelligence.h
+	"playerData.h"
+	"boardData.h"
+
+1447461887 source:z:\cs250\exodu\src\endgame.cpp
+	"endGame.h"
+	<iostream>
+
+1447462465 z:\cs250\exodu\include\endgame.h
+	"boardData.h"
+
+1448147726 source:z:\cs250\exodu\src\playerdata.cpp
+	<iostream>
+	"playerData.h"
+
+1448147766 source:z:\cs250\exodu\src\boarddata.cpp
+	<iostream>
+	"ExODU.h"
+	"boardData.h"
+
+1448333822 source:z:\cs250\exodu\src\exodu.cpp
+	"ExODU.h"
+	"endGame.h"
+	"ArtificialIntelligence.h"
+	<string>
+
